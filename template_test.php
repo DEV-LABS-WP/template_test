@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Noble Template Installer (Elementor Free)
+ * Plugin Name: Template Installer (Elementor Free)
  * Description: Importa páginas completas hechas en Elementor desde JSON y las abre para editar.
  * Version: 1.0.0
  */
